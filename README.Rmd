@@ -18,27 +18,28 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
-## step 12. 1
-- Abhinav's notes: made a folder called Lab 1.
+## step 12.1
+-Kate's notes: prerequisites completed
 
 ## step 12.2
-- Abhinav's notes: Made a repo on Github for Team 5. Then coppied the html link of the repo from Github
+-Kate's notes: repo created for Lab 1 Team 5
 
-## step 12.3
-- Abhinav's notes: I changed the directory to Lab 1 in the terminal. Then cloned the repo by typing git clone https://github.com/DS202-at-ISU/s2026-ds2020-lab1-team5lab1.git. After doing that I opened the project in RStudios. Then opened the README.Rmd to make changes to the readme. 
+##step 12.3
+-Kate's notes: cloned GitHub repo to my computer with RStudio
 
-# step 12.4 
-- Abhinav's notes: made local changes to the Readme. Added a line called "Abhinav's notes: This is a line from RStudio" and saved the file. After saving the file, I did get add . to add all the changes files. Then I typed git commit -m "Step 12.2 done by Abhinav" to commit all the changes. 
-
-# step 12.5
-- Abhinav's notes: After commiting all my changes, I pushed it to github by typing git push origin main. So this would push it straight to the main branch in the repo in github. 
-
-#step 12.6
-- Abhinav's notes: After pushing the changes, I chcked the repo to see if my changes got pushed and it did. There was a commit and the change was that I added "Abhinav's notes: this is a line from RStudio" in the README.Rmd.
-
-
-# All Responses
+## step 12.4
 - Abhinav's notes: This is a line from RStudio
 - Trey's notes: This is a line from RStudio
 - Kate's notes: This is a line from RStudio
 - Keaton's notes: This is a line from RStudio
+
+
+random item added by will
+
+## step 12.5
+- Kate's notes: changes pushed online to GitHub. We had issues with pushing new commits without pulling teammates prior commits. We fixed that by making sure we had pulled first before pushing.
+
+## step 12.6
+-Kate's notes: README updated with commits from team members
+
+
