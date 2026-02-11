@@ -25,6 +25,8 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Keaton's notes: This is a line from RStudio
 
 
-
 random item added by will
+
+## step 12.3
+-Kate's Notes: We had issues with pushing new commits without pulling teammates prior commits. We fixed that by making sure we had pulled first before pushing.
 
