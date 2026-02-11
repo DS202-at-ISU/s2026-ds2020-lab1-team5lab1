@@ -20,12 +20,11 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 ## step 12.2
 - Abhinav's notes: This is a line from RStudio
+- Trey's notes: This is a line from RStudio
 - Kate's notes: This is a line from RStudio
-
-
-
-
+- Keaton's notes: This is a line from RStudio
 
 
 
 random item added by will
+
